@@ -4,7 +4,7 @@ syntax clear
 syntax enable
 syntax on
 
-let g:colors_name="lasmok-escuro"
+let g:colors_name="lasmok-colorido-escuro"
 
 " Geral / :help group-name
 hi Comment ctermfg=8 ctermbg=none cterm=italic
